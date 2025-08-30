@@ -2,7 +2,7 @@ This script cleans EPUB files by removing Apple-specific metadata and rebuilding
 Place your .epub files
 Copy any EPUB files you want to clean into the same directory as the script.
 
-All care and not responsibility 
+All care and no responsibility 
 
 The script will:
 Verify the EPUB is a valid ZIP archive
